@@ -11,7 +11,7 @@
 
 Install the latest version with [composer](https://packagist.org/packages/mrcnpdlk/regon-api)
 ```bash
-composer require mrcnpdlk/regon-api
+composer require mariankustusch/regon-api
 ```
 
 API uses [BIR 1.1](https://api.stat.gov.pl/Home/RegonApi)
